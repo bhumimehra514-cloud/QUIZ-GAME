@@ -1,4 +1,3 @@
-
  print("Q1: First Alphabet of English language..?\nA) d\tB) e\nC) a\tD) f")
  ans1 = input("Enter your answer here...")
  print("your answer is ...",ans1)
