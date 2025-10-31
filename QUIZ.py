@@ -1,5 +1,5 @@
 import streamlit as st
-st.write("Q1: First Alphabet of English language..?\nA) d\tB) e\nC) a\tD) f")
+st.write("Q1: First Alphabet of English language..?\nA) D\tB) I\nC) A\tD) f")
 ans1 =st.text_input("Enter your answer here...")
 st.write("your answer is ...",ans1)
 st.write("<....................................>")
