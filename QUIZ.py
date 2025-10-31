@@ -18,7 +18,7 @@ st.write("<....................................>")
 st.write("Q5: How many continents in the world..?\nA) 4\tB) 7\nC) 8\tD) 9")
 ans5 =st.text_input("Enter your answer here...")
 st.write("your answer is ...",ans5)
- Total = 0 if ans1=="c" or ans1 == "C":
+Total = 0 if ans1=="c" or ans1 == "C":
      Total +=1
  if ans2=="d" or ans2 == "D":
      Total +=1
