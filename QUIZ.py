@@ -21,13 +21,13 @@ st.write("your answer is ...",ans5)
 Total = 0 
 if ans1=="c" or ans1 == "C":
      Total +=1
- if ans2=="d" or ans2 == "D":
+if ans2=="d" or ans2 == "D":
      Total +=1
- if ans3=="b" or ans3 == "B":
+if ans3=="b" or ans3 == "B":
      Total +=1
- if ans4=="c" or ans4 == "C":
+if ans4=="c" or ans4 == "C":
      Total +=1
- if ans5=="b" or ans5 == "B":
+if ans5=="b" or ans5 == "B":
      Total +=1
  st.write(Total)
  if Total ==5:
