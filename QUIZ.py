@@ -33,7 +33,7 @@ st.write(Total)
 if Total ==5:
      st.write("Congratulations.... You are the topper with 5 points....")
 elif Total == 4:
-     st.write"Congratulations... You have scored Second position")
+     st.write("Congratulations... You have scored Second position")
 elif Total == 3:
      st.write("You have passed the Quiz wih 3 points.. Wish you very best for next time....  ")
 else:
