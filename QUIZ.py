@@ -3,11 +3,11 @@ ques=["Q1: First Alphabet of English language..?\nA) d\tB) e\nC) a\tD) f","Q2: W
 AL=[]
 for i in ques:
     st.write(i)
-    ans =st.text_input(f"Enter your choice....")
+    ans =st.text_input(f"Enter your choice....",key=i)
     AL.append(ans)
     st.write("<....................................>")
 # for j in range(len(ques)):
-#     ans =st.text_input(f"Enter your {j+1} choice....")
+#     ans =st.text_input(f"Enter your {j+1} choice....",key=i)
 #     AL.append(ans)
 # st.write(AL)
 # RA=['c','d','b','c','b']
