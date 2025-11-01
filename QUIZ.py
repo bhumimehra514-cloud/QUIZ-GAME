@@ -35,6 +35,6 @@ elif Total == 3:
     st.write("You have passed the Quiz wih 3 points.. Wish you very best for next time....  ")
 else:
     st.write("Better Luck next time....")
-st.ballons()
+st.balloons()
    
 
