@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("QUIZ GAME:-")
+st.title![icon](https://previews.123rf.com/images/vasilyrosca/vasilyrosca1902/vasilyrosca190200117/116378855-quiz-time-icon-concept-vector-sign-ask-game-competition.jpg)("QUIZ GAME:-")
 ques=["Q1: First Alphabet of English language..?\nA) d\tB) e\nC) a\tD) f","Q2: Which of these is a mammel..?\nA) Duck\tB) Hen\nC) Owl\tD) Whale","Q3: Which is the largest ocean in the world?\nA) Indian ocean\tB) Pacific ocean\nC) Arctic ocean\tD) Atlantic ocean","Q4: WHich is the National Animal ..?\nA) Fox\tB) Cow\nC) Tiger\tD) Elephant","Q5: How many continents in the world..?\nA) 4\tB) 7\nC) 8\tD) 9"]
 AL=[]
 for i in ques:
