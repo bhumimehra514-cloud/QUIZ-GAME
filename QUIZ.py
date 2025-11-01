@@ -32,7 +32,7 @@ if Total ==5:
 elif Total == 4:
     st.write("Congratulations... You have scored Second position")
 elif Total == 3:
-    s.write("You have passed the Quiz wih 3 points.. Wish you very best for next time....  ")
+    st.write("You have passed the Quiz wih 3 points.. Wish you very best for next time....  ")
 else:
     st.write("Better Luck next time....")
 st.balloon()
