@@ -1,4 +1,5 @@
 import streamlit as st
+QUIZ GAME:-
 ques=["Q1: First Alphabet of English language..?\nA) d\tB) e\nC) a\tD) f","Q2: Which of these is a mammel..?\nA) Duck\tB) Hen\nC) Owl\tD) Whale","Q3: Which is the largest ocean in the world?\nA) Indian ocean\tB) Pacific ocean\nC) Arctic ocean\tD) Atlantic ocean","Q4: WHich is the National Animal ..?\nA) Fox\tB) Cow\nC) Tiger\tD) Elephant","Q5: How many continents in the world..?\nA) 4\tB) 7\nC) 8\tD) 9"]
 AL=[]
 for i in ques:
@@ -34,6 +35,6 @@ elif Total == 3:
     s.write("You have passed the Quiz wih 3 points.. Wish you very best for next time....  ")
 else:
     st.write("Better Luck next time....")
-
+st.balloon()
    
 
