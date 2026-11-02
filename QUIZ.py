@@ -29,7 +29,7 @@ if st.button("Submit Quiz"):
    if AL[4] == 'b' or AL[4]=="B":
       Total +=1
    if Total ==5:
-       st.ballons()
+       st.balloons()
        st.write("Congratulations.... You are the topper with 5 points....")
    elif Total == 4:
        st.write("Congratulations... You have scored Second position")
